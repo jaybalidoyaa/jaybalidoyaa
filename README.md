@@ -27,6 +27,4 @@
 🎨 Design: Figma, Canva
 ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaybalidoyaa&show_icons=true&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=jaybalidoyaa&theme=tokyonight&hide_border=true" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybalidoyaa&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> </p>
-
 <p align="center"><a href="mailto:balidoyajayson@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/jaybalidoyaa"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
